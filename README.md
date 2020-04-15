@@ -17,7 +17,9 @@ We started this adventure by looking into ventilator data we found for pre-pande
 
 Additional Notes:
 ICU Beds Capacity = COVID-19 Related ICU Hospitalization/Num ICU Beds
+
 Projected Ventilators are calculated based on Michigan Stats
+
 Ventilator Availability = COVID-19 Related ICU Hospitalization/Projected Ventilators ----assume that each ICU would be having one ventilator. This is also the least amount of ventilators that hospital has to have.
 
 ### Risk Index
