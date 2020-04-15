@@ -34,6 +34,17 @@ Our team recognize that building this model required a number of significant ass
 
 Lastly, since the United States has such a great inequality of health care asses, this would need to be accountable for in all estimates of the used variables . Originally our team set out with the goal of using a Natural Language Processing technique to estimate the rate of spread using tweets since we believe that Twitter is more equal opportunity than health care. However, this endeavour was not realistic in the time frame of this challenge to any significant degree for our team.
 
+## References
+1. State of Michigan: Statewide PPE and Bed Tracking
+   https://www.michigan.gov/coronavirus/0,9753,7-406-98159-523641--,00.html <br/>
+2. Latest County-Level COVID-19 Data in ArcGIS Business Analyst,      https://www.esri.com/arcgis-blog/products/bus-analyst/real-time/latest-county-level-covid-19-data-in-arcgis-business-analyst/ <br/>
+3. COVID19 Planning Report Dashboard https://bao.arcgis.com/InfographicsPlayer/ArcGISPro/BA_Covid19/<br/>
+4. Definitive Healthcare Hospital Capacity and Utilization at County Level https://coronavirus-resources.esri.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds?geometry=32.519%2C-16.820%2C-57.481%2C72.123 <br/>
+5. California Department of Public Health Open Data
+https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics <br/>
+6. DeCaprio, D., et al (2020), Building a COVID-19 Vulnerability Index. medRxiv 2020.03.16.20036723; doi: https://doi.org/10.1101/2020.03.16.20036723 <br/>
+
+
 
 
 
